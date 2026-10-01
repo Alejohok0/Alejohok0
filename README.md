@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de Alejandro Alvarez Galvis">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil de Alejandro Alvarez Galvis">
   </picture>
 </a>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Alejohok0-dev&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=Alejohok0&style=flat&color=f78ca0&label=profile+views" alt="profile views">
 
 </div>
 </div>
@@ -29,7 +29,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de María Claudia, DevOps Engineer">
+  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de Alejandro Alvarez Galvis">
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>macu-dev:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>alejohok0:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
@@ -121,11 +121,11 @@
 <a href="https://www.instagram.com/alejohoko">
   <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/TU_USUARIO">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Alejohok0">
-  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub">
 </a>
 
 </div>
@@ -134,5 +134,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho cafe desde Rosario, Argentina · @macu-dev</sub>
+<sub>Hecho con 💖 y mucho café desde Medellín, Colombia · @Alejohok0</sub>
 </div>
