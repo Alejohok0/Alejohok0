@@ -2,11 +2,16 @@
 
 <!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/Alejohok0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil de Alejandro Alvarez Galvis">
-  </picture>
+<picture>
+  <!-- Imagen para usuarios con tema oscuro -->
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+  
+  <!-- Imagen para usuarios con tema claro -->
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  
+  <!-- Fallback (por si el navegador no soporta <picture>) -->
+  <img src="assets/banner-light.v9.svg" width="960" alt="Banner de Perfil">
+</picture>
 </a>
 
 <br>
