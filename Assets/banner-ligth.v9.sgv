@@ -1,0 +1,24 @@
+<g id="mi-rostro">
+  <!-- Capa base del rostro -->
+  <path d="M10 20..." fill="#F78CA0" opacity="0.9" />
+
+  <!-- Capa con animación de salto/glitch continuo -->
+  <path d="M10 50..." fill="#F78CA0">
+    <!-- Desplazamiento horizontal en bucle -->
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      dur="4s" 
+      repeatCount="indefinite" 
+      calcMode="discrete"
+      values="0 0; -4 0; 0 0; 6 0; 0 0; -2 0; 0 0" />
+    
+    <!-- Parpadeo / cambio de opacidad -->
+    <animate 
+      attributeName="opacity" 
+      dur="4s" 
+      repeatCount="indefinite" 
+      calcMode="discrete"
+      values="0.9; 0.2; 0.9; 0; 0.9; 0.5; 0.9" />
+  </path>
+</g>
