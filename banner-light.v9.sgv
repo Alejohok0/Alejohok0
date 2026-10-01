@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+  <rect x="1" y="1" width="958" height="298" rx="16" fill="#17171c" stroke="#f78ca0" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="44" rx="16" fill="#22222b"/>
+  <rect x="1" y="30" width="958" height="15" fill="#22222b"/>
+  <circle cx="30" cy="23" r="7" fill="#f78ca0"/>
+  <circle cx="54" cy="23" r="7" fill="#f3d29b"/>
+  <circle cx="78" cy="23" r="7" fill="#76d8d2"/>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="20">
+    <text x="480" y="29" text-anchor="middle" font-size="15" fill="#8a8a99">alejo@upb:~</text>
+
+    <text x="40" y="95" fill="#f78ca0">$ <tspan fill="#ffffff">whoami</tspan></text>
+    <text x="40" y="128" fill="#c7a4f5">Alejandro Alvarez Galvis — Computer Science Student @ UPB</text>
+
+    <text x="40" y="180" fill="#f78ca0">$ <tspan fill="#ffffff">cat focus.txt</tspan></text>
+    <text x="40" y="213" fill="#76d8d2">DevOps | AI | Cloud | Cybersecurity | Observability</text>
+
+    <text x="40" y="265" fill="#f78ca0">$ <tspan fill="#ffffff">echo $VIBES</tspan></text>
+    <text x="40" y="298" fill="#f3d29b" dy="-10">Matcha · Italy · Music · Chill · Tech</text>
+  </g>
+</svg>
